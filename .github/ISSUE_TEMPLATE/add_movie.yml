@@ -1,0 +1,34 @@
+name: Añadir película o serie
+description: Incorporar un título a la colección sin conectar el disco.
+title: 'Añadir: '
+labels: ['añadir título']
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Título
+      placeholder: Nombre de la película o serie
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Año
+      description: Opcional. Ayuda a distinguir remakes.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Tipo
+      options: ['Película', 'Serie']
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Ubicación
+      description: T7, DVD, Blu-ray, otra colección o Sin especificar.
+  - type: textarea
+    id: note
+    attributes:
+      label: Comentario
+      description: Edición o cualquier detalle que quieras conservar.

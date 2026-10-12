@@ -1,0 +1,9 @@
+dist/
+private/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+node_modules/
+.firecrawl/
