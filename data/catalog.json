@@ -16109,29 +16109,6 @@
       "files": [
         {
           "name": "Copia 1",
-          "bytes": 4622297158,
-          "season": null,
-          "episode": null,
-          "technical": {
-            "status": "ok",
-            "seconds": 5711.23,
-            "width": 1440,
-            "height": 1080,
-            "video": [
-              "hevc (Main 10), yuv420p10le(tv), 1440x1080, SAR 1:1 DAR 4:3, 23.98 fps, 23.98 tbr, 1k tbn (default) (forced)",
-              "mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 982x1379 [SAR 72:72 DAR 982:1379], 90k tbr, 90k tbn (attached pic)"
-            ],
-            "audio": [
-              "Stream #0:1(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp (default) (forced)"
-            ],
-            "subtitles": [
-              "Stream #0:2(spa): Subtitle: subrip (srt) (default) (forced)",
-              "Stream #0:3(eng): Subtitle: subrip (srt)"
-            ]
-          }
-        },
-        {
-          "name": "Copia 2",
           "bytes": 3071583166,
           "season": null,
           "episode": null,
@@ -16155,7 +16132,7 @@
           }
         }
       ],
-      "bytes": 7693880324,
+      "bytes": 3071583166,
       "meta": {
         "matched": true,
         "tmdb": 426063,
@@ -16199,8 +16176,8 @@
       "inventory": {
         "source": "scan",
         "location": "Samsung T7",
-        "recordedAt": "2026-10-09",
-        "note": ""
+        "recordedAt": "2026-10-12",
+        "note": "Retirada la copia de 4,62 GB identificada por el propietario como la versión de Murnau; se conserva la versión de 2024."
       }
     },
     {
@@ -20087,82 +20064,6 @@
       }
     },
     {
-      "id": "56",
-      "title": "Thunderbolts*",
-      "type": "movies",
-      "year": "2025",
-      "files": [
-        {
-          "name": "Copia 1",
-          "bytes": 1983373345,
-          "season": null,
-          "episode": null,
-          "technical": {
-            "status": "ok",
-            "seconds": 7231.19,
-            "width": 720,
-            "height": 300,
-            "video": [
-              "h264 (Main), yuv420p(tv, bt709, progressive), 720x300 [SAR 1:1 DAR 12:5], 24 fps, 24 tbr, 1k tbn (default)",
-              "png, rgba(pc, gbr/unknown/unknown), 640x266, 90k tbr, 90k tbn (attached pic)"
-            ],
-            "audio": [
-              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, stereo, fltp (default)"
-            ],
-            "subtitles": []
-          }
-        }
-      ],
-      "bytes": 1983373345,
-      "meta": {
-        "matched": true,
-        "tmdb": 986056,
-        "imdb": "tt20969586",
-        "title": "Thunderbolts*",
-        "original": "Thunderbolts*",
-        "year": "2025",
-        "synopsis": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
-        "genres": [
-          "Acción",
-          "Ciencia ficción",
-          "Aventura"
-        ],
-        "runtime": 127,
-        "rating": 7.3,
-        "votes": 4151,
-        "tagline": "Todo el mundo merece una segunda oportunidad.",
-        "country": "United States of America",
-        "director": [
-          "Jake Schreier"
-        ],
-        "cast": [
-          "Florence Pugh",
-          "Sebastian Stan",
-          "Julia Louis-Dreyfus",
-          "Lewis Pullman",
-          "David Harbour",
-          "Wyatt Russell",
-          "Hannah John-Kamen",
-          "Ольга Куриленко",
-          "Geraldine Viswanathan",
-          "Wendell Pierce"
-        ],
-        "poster": "assets/poster-56.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-        "source": "https://www.themoviedb.org/movie/986056",
-        "seasons": null,
-        "episodes": null,
-        "trailer": "https://www.youtube.com/watch?v=QCbzHZ1Q2lw",
-        "checkedAt": "2026-10-09"
-      },
-      "inventory": {
-        "source": "scan",
-        "location": "Samsung T7",
-        "recordedAt": "2026-10-09",
-        "note": ""
-      }
-    },
-    {
       "id": "208",
       "title": "Tigres de papel",
       "type": "movies",
@@ -21945,6 +21846,983 @@
         "location": "Samsung T7",
         "recordedAt": "2026-10-09",
         "note": ""
+      }
+    },
+    {
+      "id": "manual-f712b679dd5f",
+      "title": "Los golpes de la vida",
+      "type": "movies",
+      "year": "1997",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2706976101,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7402.71,
+            "width": 702,
+            "height": 576,
+            "video": [
+              "h264 (High), yuv420p(progressive), 702x576 [SAR 64:45 DAR 26:15], SAR 499:351 DAR 499:288, 25 fps, 25 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 192 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(eng): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 2706976101,
+      "meta": {
+        "matched": true,
+        "tmdb": 21252,
+        "imdb": "tt0119792",
+        "title": "Los golpes de la vida",
+        "original": "Nil by Mouth",
+        "year": "1997",
+        "synopsis": "Una familia que habita en uno de los barrios más desfavorecidos de Londres, vive sustentada por el impulso y el aguante de sus mujeres; Valeria, su madre Janet, su abuela Kath y la pequeña Michelle viven azotadas por los golpes de la vida.",
+        "genres": [
+          "Drama"
+        ],
+        "runtime": 128,
+        "rating": 6.9,
+        "votes": 157,
+        "tagline": "",
+        "country": "United Kingdom, France",
+        "director": [
+          "Gary Oldman"
+        ],
+        "cast": [
+          "Ray Winstone",
+          "Kathy Burke",
+          "Charlie Creed-Miles",
+          "Laila Morse",
+          "Edna Doré",
+          "Chrissie Cotterill",
+          "Jon Morrison",
+          "Jamie Foreman",
+          "Neil Maskell",
+          "Steve Sweeney"
+        ],
+        "poster": "assets/poster-tmdb-21252.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gJHbC2PZHfX4YZ8MzLCv5rDCP8Y.jpg",
+        "source": "https://www.themoviedb.org/movie/21252",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-73e4b92add7b",
+      "title": "Flint, agente secreto",
+      "type": "movies",
+      "year": "1966",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3544767538,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6464.8,
+            "width": 1696,
+            "height": 720,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1696x720 [SAR 1:1 DAR 106:45], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, mono, fltp, 192 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 3544767538,
+      "meta": {
+        "matched": true,
+        "tmdb": 23728,
+        "imdb": "tt0059557",
+        "title": "Flint, agente secreto",
+        "original": "Our Man Flint",
+        "year": "1966",
+        "synopsis": "Tres científicos, escondidos en una isla desconocida y con poderosos medios a su alcance, han conseguido dominar la meteorología y amenazan con derretir los hielos del Polo si todos los países del globo no se someten a su dirección. Los Servicios Secretos mundiales se ponen de acuerdo en elegir al agente Derek Flint, el único que reúne todas las cualidades necesarias, para resolver este espinoso asunto.",
+        "genres": [
+          "Acción",
+          "Comedia",
+          "Aventura",
+          "Ciencia ficción"
+        ],
+        "runtime": 108,
+        "rating": 6.5,
+        "votes": 136,
+        "tagline": "",
+        "country": "United States of America",
+        "director": [
+          "Daniel Mann"
+        ],
+        "cast": [
+          "James Coburn",
+          "Lee J. Cobb",
+          "Gila Golan",
+          "Edward Mulhare",
+          "Benson Fong",
+          "Shelby Grant",
+          "Sigrid Valdis",
+          "Gianna Serra",
+          "Helen Funai",
+          "Michael St. Clair"
+        ],
+        "poster": "assets/poster-tmdb-23728.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dQbZRSQLmWlaU3TNVmBj72M1TBg.jpg",
+        "source": "https://www.themoviedb.org/movie/23728",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-83c1b6d34847",
+      "title": "La red social",
+      "type": "movies",
+      "year": "2010",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2621276160,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7227.23,
+            "width": 1920,
+            "height": 798,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x798 [SAR 1:1 DAR 320:133], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 2621276160,
+      "meta": {
+        "matched": true,
+        "tmdb": 37799,
+        "imdb": "tt1285016",
+        "title": "La red social",
+        "original": "The Social Network",
+        "year": "2010",
+        "synopsis": "Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta a su ordenador y con empeño y entusiasmo comienza a desarrollar una nueva idea. En un furor de blogging y programación, lo que comenzó en la habitación de su colegio mayor pronto se convirtió en una red social global y una revolución en la comunicación. Seis años y 500 millones de amigos después, Mark Zuckerberg es el billonario más joven de la historia. Pero para este emprendedor, el éxito ha supuesto complicaciones personales y legales...",
+        "genres": [
+          "Drama"
+        ],
+        "runtime": 120,
+        "rating": 7.377,
+        "votes": 13625,
+        "tagline": "No haces 500 millones de amigos sin ganarte algunos enemigos",
+        "country": "United States of America",
+        "director": [
+          "David Fincher"
+        ],
+        "cast": [
+          "Jesse Eisenberg",
+          "Andrew Garfield",
+          "Armie Hammer",
+          "Justin Timberlake",
+          "Rooney Mara",
+          "Max Minghella",
+          "Brenda Song",
+          "Josh Pence",
+          "Rashida Jones",
+          "John Getz"
+        ],
+        "poster": "assets/poster-tmdb-37799.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+        "source": "https://www.themoviedb.org/movie/37799",
+        "trailer": "https://www.youtube.com/watch?v=K1JWiaIY-Xg",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-35c5902bde3f",
+      "title": "F de Flint",
+      "type": "movies",
+      "year": "1967",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3773423345,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6883.07,
+            "width": 1696,
+            "height": 720,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1696x720 [SAR 1:1 DAR 106:45], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 192 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)"
+            ]
+          }
+        }
+      ],
+      "bytes": 3773423345,
+      "meta": {
+        "matched": true,
+        "tmdb": 24130,
+        "imdb": "tt0061810",
+        "title": "F de Flint",
+        "original": "In Like Flint",
+        "year": "1967",
+        "synopsis": "Cuando el presidente de los Estados Unidos es secuestrado y suplantado por un malvado impostor, el encargado de resolver el misterio es el elegante e intrépido superespía Derek Flint. En una remota y exótica isla del Caribe, descubre una conspiración de mujeres tan bellas como peligrosas, que han ideado un insólito sistema de lavado de cerebro para dominar el mundo.",
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Comedia"
+        ],
+        "runtime": 120,
+        "rating": 6.2,
+        "votes": 89,
+        "tagline": "",
+        "country": "United States of America",
+        "director": [
+          "Gordon Douglas"
+        ],
+        "cast": [
+          "James Coburn",
+          "Lee J. Cobb",
+          "Jean Hale",
+          "Andrew Duggan",
+          "Anna Lee",
+          "Hanna Landy",
+          "Totty Ames",
+          "Steve Ihnat",
+          "Thomas Hasson",
+          "Mary Michael"
+        ],
+        "poster": "assets/poster-tmdb-24130.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3Nr0wKsuYKRyyI9Z3Po7GW4RD1g.jpg",
+        "source": "https://www.themoviedb.org/movie/24130",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-a2067b4be284",
+      "title": "Risky Business",
+      "type": "movies",
+      "year": "1983",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 4858276690,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5948.99,
+            "width": 1920,
+            "height": 1080,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)"
+            ]
+          }
+        }
+      ],
+      "bytes": 4858276690,
+      "meta": {
+        "matched": true,
+        "tmdb": 9346,
+        "imdb": "tt0086200",
+        "title": "Risky Business",
+        "original": "Risky Business",
+        "year": "1983",
+        "synopsis": "Joel Goodsen es un joven de 17 años, universitario y responsable. Un chico en el que cualquiera puede confiar. Pero ha sido bueno durante demasiado tiempo. Ahora los padres de Joel se encuentran de viaje, y él está solo a cargo de la casa. Sus padres, confían en él. Aunque quizá no deberían...",
+        "genres": [
+          "Romance",
+          "Comedia",
+          "Drama"
+        ],
+        "runtime": 98,
+        "rating": 6.576,
+        "votes": 1542,
+        "tagline": "El momento de su vida",
+        "country": "United States of America",
+        "director": [
+          "Paul Brickman"
+        ],
+        "cast": [
+          "Tom Cruise",
+          "Rebecca De Mornay",
+          "Joe Pantoliano",
+          "Richard Masur",
+          "Bronson Pinchot",
+          "Curtis Armstrong",
+          "Nicholas Pryor",
+          "Janet Carroll",
+          "Shera Danese",
+          "Raphael Sbarge"
+        ],
+        "poster": "assets/poster-tmdb-9346.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xGEBZAFcRQ8fqGVXMtQCnkoUNTG.jpg",
+        "source": "https://www.themoviedb.org/movie/9346",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-482bcc57acf8",
+      "title": "Drive",
+      "type": "movies",
+      "year": "2011",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 1845351633,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6024.15,
+            "width": 1920,
+            "height": 804,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x804 [SAR 1:1 DAR 160:67], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, 5.1, fltp (default)",
+              "Stream #0:2(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(eng): Subtitle: subrip (srt) (default)"
+            ]
+          }
+        }
+      ],
+      "bytes": 1845351633,
+      "meta": {
+        "matched": true,
+        "tmdb": 64690,
+        "imdb": "tt0780504",
+        "title": "Drive",
+        "original": "Drive",
+        "year": "2011",
+        "synopsis": "Durante el día, Driver trabaja en un taller y es conductor especialista de cine, pero, algunas noches de forma esporádica, trabaja como chófer para delincuentes. Shannon, su mentor y jefe, que conoce bien su talento al volante, le busca directores de cine y televisión o criminales que necesiten al mejor conductor para sus fugas, llevándose la correspondiente comisión. Pero el mundo de Driver cambia el día en que conoce a Irene, una guapa vecina que tiene un hijo pequeño y a su marido en la cárcel.",
+        "genres": [
+          "Drama",
+          "Suspense",
+          "Crimen"
+        ],
+        "runtime": 100,
+        "rating": 7.582,
+        "votes": 14110,
+        "tagline": "No hay salida fácil",
+        "country": "United States of America",
+        "director": [
+          "Nicolas Winding Refn"
+        ],
+        "cast": [
+          "Ryan Gosling",
+          "Carey Mulligan",
+          "Bryan Cranston",
+          "Albert Brooks",
+          "Oscar Isaac",
+          "Christina Hendricks",
+          "Ron Perlman",
+          "Kaden Leos",
+          "Jeff Wolfe",
+          "James Biberi"
+        ],
+        "poster": "assets/poster-tmdb-64690.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+        "source": "https://www.themoviedb.org/movie/64690",
+        "trailer": "https://www.youtube.com/watch?v=T1A_DWQhmM4",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-831786ffbe7a",
+      "title": "Cyrano de Bergerac",
+      "type": "movies",
+      "year": "1990",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3542799045,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 8306.72,
+            "width": 1800,
+            "height": 1080,
+            "video": [
+              "hevc (Main), yuv420p(tv, bt709), 1800x1080 [SAR 1:1 DAR 5:3], 24 fps, 24 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (default)",
+              "Stream #0:2(fre): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 3542799045,
+      "meta": {
+        "matched": true,
+        "tmdb": 11673,
+        "imdb": "tt0099334",
+        "title": "Cyrano de Bergerac",
+        "original": "Cyrano de Bergerac",
+        "year": "1990",
+        "synopsis": "Cyrano es un brillante poeta y un hábil espadachín que expresa su amor por la bella Roxane a través de Christian, el apuesto soldado a quien ella ama. Cyrano es jactancioso y fanfarrón, de genio vivo pero a la vez ingenioso e irónico, noble y orgulloso. Pero esconde una herida secreta que le atormenta: su agudo sentido del ridículo, su fealdad y su susceptibilidad le han impedido ser amado por Roxane. Sin embargo, ya que su amada ama a otro, él ayudará a su rival escribiendo en su nombre apasionadas cartas de amor.",
+        "genres": [
+          "Drama",
+          "Comedia",
+          "Historia",
+          "Romance"
+        ],
+        "runtime": 137,
+        "rating": 7.326,
+        "votes": 853,
+        "tagline": "Un Film de Jean-Paul Rappeneau",
+        "country": "France",
+        "director": [
+          "Jean-Paul Rappeneau"
+        ],
+        "cast": [
+          "Gérard Depardieu",
+          "Anne Brochet",
+          "Vincent Perez",
+          "Jacques Weber",
+          "Roland Bertin",
+          "Philippe Morier-Genoud",
+          "Pierre Maguelon",
+          "Josiane Stoléru",
+          "Alain Rimoux",
+          "Anatole Delalande"
+        ],
+        "poster": "assets/poster-tmdb-11673.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+        "source": "https://www.themoviedb.org/movie/11673",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-6af989af8525",
+      "title": "Animatrix",
+      "type": "movies",
+      "year": "2003",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 1799109498,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6050.75,
+            "width": 1904,
+            "height": 800,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1904x800, SAR 1:1 DAR 119:50, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)",
+              "Stream #0:2: Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3: Subtitle: subrip (srt) (default)",
+              "Stream #0:4: Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 1799109498,
+      "meta": {
+        "matched": true,
+        "tmdb": 55931,
+        "imdb": "tt0328832",
+        "title": "Animatrix",
+        "original": "The Animatrix",
+        "year": "2003",
+        "synopsis": "Directamente de los creadores de la revolucionaria trilogía de Matrix, esta colección de cortos de animación de los principales directores de anime del mundo, fusionan gráficos por ordenador y el anime japonés para ilustrar los antecedentes del universo de Matrix y el conflicto entre el hombre y las máquinas. Los cortos son: El último vuelo de Osiris, El Segundo Renacimiento, Historia de Niños, Programa, Récord mundial, Más allá, Una historia de detectives y Matriculado.",
+        "genres": [
+          "Animación",
+          "Ciencia ficción"
+        ],
+        "runtime": 102,
+        "rating": 7.222,
+        "votes": 1864,
+        "tagline": "De los creadores de la trilogía Matrix.",
+        "country": "Japan, United States of America, South Korea",
+        "director": [
+          "森本晃司",
+          "Peter Chung",
+          "渡辺信一郎",
+          "Mahiro Maeda",
+          "Yoshiaki Kawajiri",
+          "小池健",
+          "Andrew R. Jones"
+        ],
+        "cast": [
+          "Keanu Reeves",
+          "Carrie-Anne Moss",
+          "Clayton Watson",
+          "Pamela Adlon",
+          "Melinda Clarke",
+          "John DiMaggio",
+          "Kevin Michael Richardson",
+          "Tom Kenny",
+          "Rick Gomez",
+          "Tara Strong"
+        ],
+        "poster": "assets/poster-tmdb-55931.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7a4WHNllmX5ZGR0MfYJDPhV69eM.jpg",
+        "source": "https://www.themoviedb.org/movie/55931",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-c1ea9c229a37",
+      "title": "Armas de mujer",
+      "type": "movies",
+      "year": "1988",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3180451805,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6811.87,
+            "width": 1920,
+            "height": 1040,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x1040 [SAR 1:1 DAR 24:13], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 384 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 3180451805,
+      "meta": {
+        "matched": true,
+        "tmdb": 3525,
+        "imdb": "tt0096463",
+        "title": "Armas de mujer",
+        "original": "Working Girl",
+        "year": "1988",
+        "synopsis": "Tess, una inteligente secretaria de origen humilde, descubre que ha sido traicionada por su jefa. Es entonces cuando decide suplantarla durante una baja por enfermedad.",
+        "genres": [
+          "Comedia",
+          "Romance",
+          "Drama"
+        ],
+        "runtime": 113,
+        "rating": 6.608,
+        "votes": 1106,
+        "tagline": "Para cualquiera que haya ganado. Para cualquiera que haya perdido. Y para todos los que todavía lo intentan.",
+        "country": "United States of America",
+        "director": [
+          "Mike Nichols"
+        ],
+        "cast": [
+          "Melanie Griffith",
+          "Harrison Ford",
+          "Sigourney Weaver",
+          "Alec Baldwin",
+          "Joan Cusack",
+          "Philip Bosco",
+          "Nora Dunn",
+          "Oliver Platt",
+          "James Lally",
+          "Kevin Spacey"
+        ],
+        "poster": "assets/poster-tmdb-3525.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lRWIiRSOMH7qQT6UGcmx8Uykix3.jpg",
+        "source": "https://www.themoviedb.org/movie/3525",
+        "trailer": "https://www.youtube.com/watch?v=a40SzKAr53o",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-60cc88c1220e",
+      "title": "Arma letal",
+      "type": "movies",
+      "year": "1987",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2927033316,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6577.09,
+            "width": 1920,
+            "height": 1080,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x1080, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, stereo, fltp (default)",
+              "Stream #0:2(eng): Audio: aac (LC), 48000 Hz, stereo, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: ass (ssa)",
+              "Stream #0:4(eng): Subtitle: ass (ssa)"
+            ]
+          }
+        }
+      ],
+      "bytes": 2927033316,
+      "meta": {
+        "matched": true,
+        "tmdb": 941,
+        "imdb": "tt0093409",
+        "title": "Arma letal",
+        "original": "Lethal Weapon",
+        "year": "1987",
+        "synopsis": "Antiguos soldados de la guerra del Vietnam han creado una poderosa red de tráfico de droga. Dos policias reciben el encargo de esclarecer un asesinato en el que esa peligrosa organización se halla implicada.",
+        "genres": [
+          "Acción",
+          "Suspense",
+          "Crimen"
+        ],
+        "runtime": 110,
+        "rating": 7.307,
+        "votes": 5256,
+        "tagline": "Dos policías. Glover lleva un arma... Gibson es un arma.",
+        "country": "United States of America",
+        "director": [
+          "Richard Donner"
+        ],
+        "cast": [
+          "Mel Gibson",
+          "Danny Glover",
+          "Gary Busey",
+          "Mitchell Ryan",
+          "Tom Atkins",
+          "Darlene Love",
+          "Traci Wolfe",
+          "Jackie Swanson",
+          "Damon Hines",
+          "Ebonie Smith"
+        ],
+        "poster": "assets/poster-tmdb-941.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+        "source": "https://www.themoviedb.org/movie/941",
+        "trailer": "https://www.youtube.com/watch?v=kulyIwXNznU",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-0f3b2918304e",
+      "title": "Indochina",
+      "type": "movies",
+      "year": "1992",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 4353069126,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 9486.56,
+            "width": 1920,
+            "height": 1036,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x1036 [SAR 1:1 DAR 480:259], 24 fps, 24 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)",
+              "Stream #0:2(fre): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 4353069126,
+      "meta": {
+        "matched": true,
+        "tmdb": 2731,
+        "imdb": "tt0104507",
+        "title": "Indochina",
+        "original": "Indochine",
+        "year": "1992",
+        "synopsis": "Melodrama romántico, ambientado en la Indochina francesa durante los años treinta, que narra los cambios que llevaron a la creación del Vietnam a partir de las ruinas del colonialismo. A la hora de ser elegida mejor película extranjera tuvo mucho peso la interpretación de la prestigiosa actriz Catherine Deneuve, que fue nominada al Oscar. Una elegante mujer de ascendencia francesa, propietaria de una plantación de caucho, tiene dos grandes amores: su hija adoptiva y el país en donde vive.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "runtime": 159,
+        "rating": 7.0,
+        "votes": 242,
+        "tagline": "",
+        "country": "France, Vietnam, Malaysia",
+        "director": [
+          "Régis Wargnier"
+        ],
+        "cast": [
+          "Catherine Deneuve",
+          "Vincent Perez",
+          "Linh-Dan Pham",
+          "Jean Yanne",
+          "Dominique Blanc",
+          "Alain Fromager",
+          "Eric Nguyen",
+          "Jean-Baptiste Huynh",
+          "Henri Marteau",
+          "Carlo Brandt"
+        ],
+        "poster": "assets/poster-tmdb-2731.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sk5YqvIl4jd7xgw7lcoUMYOLjKt.jpg",
+        "source": "https://www.themoviedb.org/movie/2731",
+        "trailer": "https://www.youtube.com/watch?v=8xJQPuY3G7k",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-2e08db098aa0",
+      "title": "El amante",
+      "type": "movies",
+      "year": "1992",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 4908230871,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6954.3,
+            "width": 1920,
+            "height": 1036,
+            "video": [
+              "h264 (High), yuv420p(tv, bt709, progressive), 1920x1036 [SAR 1:1 DAR 480:259], 23.98 fps, 23.98 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)",
+              "Stream #0:6(eng): Subtitle: subrip (srt)"
+            ]
+          }
+        }
+      ],
+      "bytes": 4908230871,
+      "meta": {
+        "matched": true,
+        "tmdb": 10995,
+        "imdb": "tt0101316",
+        "title": "El amante",
+        "original": "L'Amant",
+        "year": "1992",
+        "synopsis": "En la Vietnam colonial de 1929, una adolescente francesa, que vive con su madre y sus dos hermanas, conoce a un apuesto comerciante chino. A pesar de las tensiones que se viven en el sureste asiático y a la diferencia de edad entre ambos, pronto se convierten en amantes.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "runtime": 115,
+        "rating": 7.006,
+        "votes": 789,
+        "tagline": "Ella le dio inocencia, su pasión, su cuerpo. Lo único que no podía darle era su amor.",
+        "country": "France, United Kingdom, Vietnam",
+        "director": [
+          "Jean Jacques Annaud"
+        ],
+        "cast": [
+          "Jane March",
+          "梁家輝",
+          "Frédérique Meininger",
+          "Arnaud Giovaninetti",
+          "Melvil Poupaud",
+          "Lisa Faulkner",
+          "Jeanne Moreau",
+          "Xiem Mang",
+          "Philippe Le Dem",
+          "Ann Schaufuss"
+        ],
+        "poster": "assets/poster-tmdb-10995.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mygq3cQkS4v1MoLxo22KABiK90l.jpg",
+        "source": "https://www.themoviedb.org/movie/10995",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "T7 · pelis2",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-e37844b42ec9",
+      "title": "No Hay Salida",
+      "type": "movies",
+      "year": "1987",
+      "files": [],
+      "bytes": null,
+      "meta": {
+        "matched": true,
+        "tmdb": 10083,
+        "imdb": "tt0093640",
+        "title": "No Hay Salida",
+        "original": "No Way Out",
+        "year": "1987",
+        "synopsis": "El Secretario de Defensa David Brice (Gene Hackman) mata a su amante en un arrebato de furia. Para encubrir el escándalo, su fiel ayudante (Will Patton) hace que las sospechas recaigan sobre un espía ruso, y para encontrarlo recluta al comandante de marina Tom Farrell (Kevin Costner). A medida que la investigación avanza, Farrell descubre horrorizado que todas las pistas lo inculpan directamente a él y que su vida corre peligro.",
+        "genres": [
+          "Suspense",
+          "Drama"
+        ],
+        "runtime": 116,
+        "rating": 6.857,
+        "votes": 859,
+        "tagline": "¿Es un crimen pasional o un acto de traición?",
+        "country": "United States of America",
+        "director": [
+          "Roger Donaldson"
+        ],
+        "cast": [
+          "Kevin Costner",
+          "Gene Hackman",
+          "Sean Young",
+          "Will Patton",
+          "Howard Duff",
+          "George Dzundza",
+          "Jason Bernard",
+          "Iman",
+          "Fred Thompson",
+          "Leon Russom"
+        ],
+        "poster": "assets/poster-tmdb-10083.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9F6zZuETJWUtkcSEnOc0JLqBHAK.jpg",
+        "source": "https://www.themoviedb.org/movie/10083",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "manual",
+        "location": "T7 · pelis2",
+        "note": "Copia a pelis2 anunciada por el propietario; archivo pendiente de comprobación.",
+        "recordedAt": "2026-10-12"
       }
     }
   ]

@@ -6,6 +6,8 @@ Catálogo personal con portadas, fichas, búsqueda por título/director/reparto,
 
 Este repo es independiente del anterior `cine-t7`. La web es pública y los vídeos permanecen en el disco.
 
+Actualización del 12 de octubre de 2026: 206 películas, 17 series y 465 archivos medidos. Se incorporaron 12 películas comprobadas en `pelis2` y «No hay salida» (1987, Kevin Costner), cuya copia estaba pendiente de comprobación. Se retiró `Thunderbolts*` y la copia de Nosferatu de 4,62 GB; se conserva la versión de 2024 de 3,07 GB. El campo `scanned` conserva la fecha del inventario completo inicial; cada ficha registra su comprobación posterior en `inventory.recordedAt`.
+
 ## Añadir películas sin conectar el disco
 
 **Desde el móvil:** abre «Añadir película desde el móvil», entra con la cuenta propietaria, indica título, año y ubicación y crea la solicitud. GitHub Actions incorpora el título y publica de nuevo. Puedes completar después la portada y la ficha con un LLM. Solicitudes de otras cuentas no se ejecutan automáticamente.
