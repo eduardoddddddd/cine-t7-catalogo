@@ -33,6 +33,10 @@ jobs:
             git push origin main
           fi
           gh workflow run pages.yml --ref main
-          gh issue close "$ISSUE_NUMBER" --comment 'Título incorporado al catálogo. La publicación de GitHub Pages está en curso; la ficha externa y la portada pueden completarse después con cualquier LLM.'
+          if [ "$CATALOG_RESULT" = existing ]; then
+            gh issue close "$ISSUE_NUMBER" --comment 'El título ya estaba en el catálogo. No se han creado duplicados ni cambiado la colección.'
+          else
+            gh issue close "$ISSUE_NUMBER" --comment 'Título incorporado al catálogo. La publicación de GitHub Pages está en curso; la ficha externa y la portada pueden completarse después con cualquier LLM.'
+          fi
         # Only trusted owner issues run this job. User text is never evaluated by the shell.
         # The issue number comes from the event through the script, not from issue text.

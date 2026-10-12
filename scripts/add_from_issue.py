@@ -16,8 +16,10 @@ def process(data,event):
     return add(data,f['Título'],year,'series' if f.get('Tipo')=='Serie' else 'movies',f.get('Ubicación') or 'Sin especificar',f.get('Comentario') or '')
 if __name__=='__main__':
     event=json.loads(Path(os.environ['GITHUB_EVENT_PATH']).read_text());data=read()
+    result='added'
     try:process(data,event);write(data)
     except ValueError as e:
         if 'ya existe' not in str(e):raise
+        result='existing'
         print(e)
-    with open(os.environ['GITHUB_ENV'],'a') as out:out.write('ISSUE_NUMBER='+str(int(event['issue']['number']))+'\n')
+    with open(os.environ['GITHUB_ENV'],'a') as out:out.write('ISSUE_NUMBER='+str(int(event['issue']['number']))+'\nCATALOG_RESULT='+result+'\n')
