@@ -25,6 +25,7 @@ Este es el nuevo catálogo de Edu. El repo anterior `cine-t7` pertenece a otro t
 6. `files: []` significa que no se ha escaneado un archivo; conserva ese dato. No inventes tamaño, códecs, pistas, resolución, duración del archivo ni capítulos.
 7. «Está en T7» indicado por Edu se registra como `inventory.location: "T7"` y origen `manual`; una indicación no es una medición del disco.
 8. Completa portadas con URL HTTPS contrastada o imagen en `web/assets/`. No borres títulos manuales al importar un inventario.
+9. Al incorporar otro soporte, conserva las copias de los demás discos. Usa `files[].location` por copia y combina los soportes en `inventory.location` cuando un título está en varios; no dupliques su ficha ni cambies su ID.
 
 ## Comprobaciones antes de entregar
 

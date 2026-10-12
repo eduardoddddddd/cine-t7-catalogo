@@ -6,6 +6,10 @@ Catálogo personal con portadas, fichas, búsqueda por título/director/reparto,
 
 Este repo es independiente del anterior `cine-t7`. La web es pública y los vídeos permanecen en el disco.
 
+El catálogo también incluye el USB Patriot: inventario del 12 de octubre de 2026 con 32 películas y la miniserie de Salem's Lot en dos partes (34 archivos). Platoon tiene una copia en T7 y otra en Patriot, dentro de la misma ficha. La ubicación se muestra en tarjetas, fichas y archivos. Total tras esta incorporación: 237 películas, 18 series y 499 archivos medidos.
+
+Escribe `Patriot` en el buscador para consultar todos los títulos de ese USB.
+
 Actualización del 12 de octubre de 2026: 206 películas, 17 series y 465 archivos medidos. Se incorporaron 12 películas comprobadas en `pelis2` y «No hay salida» (1987, Kevin Costner), cuya copia estaba pendiente de comprobación. Se retiró `Thunderbolts*` y la copia de Nosferatu de 4,62 GB; se conserva la versión de 2024 de 3,07 GB. El campo `scanned` conserva la fecha del inventario completo inicial; cada ficha registra su comprobación posterior en `inventory.recordedAt`.
 
 ## Añadir películas sin conectar el disco

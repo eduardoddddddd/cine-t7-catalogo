@@ -21,6 +21,8 @@ Cada título tiene:
 
 Cada archivo público contiene un nombre genérico (`Copia 1` o temporada/capítulo), tamaño medido, temporada/episodio si se conocen y `technical` con las mediciones. Las rutas y nombres originales no pertenecen al catálogo público.
 
+`files[].location` indica el soporte de esa copia, por ejemplo `USB Patriot` o `Samsung T7`, y `files[].recordedAt` la fecha de comprobación cuando se dispone de ella. Si un título está en varios soportes, conserva su ID y todos sus archivos, asigna la ubicación a cada copia y resume ambos soportes en `inventory.location`. No reemplaces las copias de otro disco al actualizar uno. En registros antiguos sin ubicación por archivo se utiliza la ubicación de su ficha.
+
 Las imágenes se referencian mediante HTTPS o una ruta `assets/nombre.jpg` existente en `web/`. No uses rutas absolutas al disco ni enlaces con tokens.
 
 Ejemplo mínimo real de estructura (rellena los datos con el título indicado, no publiques ejemplos como películas reales):

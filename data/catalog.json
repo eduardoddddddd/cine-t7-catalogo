@@ -16679,10 +16679,36 @@
               "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
               "Stream #0:4(eng): Subtitle: subrip (srt)"
             ]
-          }
+          },
+          "location": "Samsung T7"
+        },
+        {
+          "name": "Copia 2",
+          "bytes": 2136768772,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7189.79,
+            "width": 1280,
+            "height": 688,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1280x688, SAR 1:1 DAR 80:43, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)",
+              "Stream #0:2: Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3: Subtitle: subrip (srt) (default)",
+              "Stream #0:4: Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
         }
       ],
-      "bytes": 5983180541,
+      "bytes": 8119949313,
       "meta": {
         "matched": true,
         "tmdb": 792,
@@ -16726,8 +16752,8 @@
       },
       "inventory": {
         "source": "scan",
-        "location": "Samsung T7",
-        "recordedAt": "2026-10-09",
+        "location": "Samsung T7 + USB Patriot",
+        "recordedAt": "2026-10-12",
         "note": ""
       }
     },
@@ -22822,6 +22848,2568 @@
         "source": "manual",
         "location": "T7 · pelis2",
         "note": "Copia a pelis2 anunciada por el propietario; archivo pendiente de comprobación.",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-75a96e31e8f7",
+      "title": "Ben-Hur",
+      "type": "movies",
+      "year": "1959",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 7411624312,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 13348.05,
+            "width": 1920,
+            "height": 688,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x688, SAR 1:1 DAR 120:43, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, 5.1, fltp (default)",
+              "Stream #0:2(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: dvd_subtitle (dvdsub), 1920x1080",
+              "Stream #0:4(eng): Subtitle: dvd_subtitle (dvdsub), 1920x1080"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 7411624312,
+      "meta": {
+        "matched": true,
+        "tmdb": 665,
+        "imdb": "tt0052618",
+        "title": "Ben-Hur",
+        "original": "Ben-Hur",
+        "year": "1959",
+        "synopsis": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas.",
+        "genres": [
+          "Historia",
+          "Drama",
+          "Aventura"
+        ],
+        "runtime": 212,
+        "rating": 7.9,
+        "votes": 3297,
+        "tagline": "¡Es un mundo loco, pero todavía hay una cordura que permanece; la lealtad de los viejos amigos!",
+        "country": "United States of America",
+        "director": [
+          "William Wyler"
+        ],
+        "cast": [
+          "Charlton Heston",
+          "Stephen Boyd",
+          "Hugh Griffith",
+          "Jack Hawkins",
+          "Haya Harareet",
+          "Martha Scott",
+          "Cathy O'Donnell",
+          "Sam Jaffe",
+          "Finlay Currie",
+          "Frank Thring"
+        ],
+        "poster": "assets/poster-tmdb-movie-665.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
+        "source": "https://www.themoviedb.org/movie/665",
+        "trailer": "https://www.youtube.com/watch?v=0ic7XeN0LsA",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-1c3541b8b5de",
+      "title": "Birdman o la inesperada virtud de la ignorancia",
+      "type": "movies",
+      "year": "2014",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3748714037,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7157.25,
+            "width": 1920,
+            "height": 1040,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x1040 [SAR 1:1 DAR 24:13], 23.98 fps, 23.98 tbr, 1k tbn (default) (forced)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3748714037,
+      "meta": {
+        "matched": true,
+        "tmdb": 194662,
+        "imdb": "tt2562232",
+        "title": "Birdman o la inesperada virtud de la ignorancia",
+        "original": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "year": "2014",
+        "synopsis": "Después de hacerse famoso interpretando a un célebre superhéroe, un actor trata de darle un nuevo rumbo a su vida, recuperando a su familia y preparándose para el estreno de una obra teatral en Broadway.",
+        "genres": [
+          "Drama",
+          "Comedia"
+        ],
+        "runtime": 119,
+        "rating": 7.434,
+        "votes": 13904,
+        "tagline": "Un Film de Alejandro González Iñárritu",
+        "country": "United States of America",
+        "director": [
+          "Alejandro González Iñárritu"
+        ],
+        "cast": [
+          "Michael Keaton",
+          "Emma Stone",
+          "Zach Galifianakis",
+          "Edward Norton",
+          "Andrea Riseborough",
+          "Naomi Watts",
+          "Amy Ryan",
+          "Lindsay Duncan",
+          "Merritt Wever",
+          "Jeremy Shamos"
+        ],
+        "poster": "assets/poster-tmdb-movie-194662.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+        "source": "https://www.themoviedb.org/movie/194662",
+        "trailer": "https://www.youtube.com/watch?v=vuJt_lGYf70",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-365c06064d00",
+      "title": "Cadena perpetua",
+      "type": "movies",
+      "year": "1994",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2584456128,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 8552.58,
+            "width": 1920,
+            "height": 1036,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x1036 [SAR 1:1 DAR 480:259], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2584456128,
+      "meta": {
+        "matched": true,
+        "tmdb": 278,
+        "imdb": "tt0111161",
+        "title": "Cadena perpetua",
+        "original": "The Shawshank Redemption",
+        "year": "1994",
+        "synopsis": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+        "genres": [
+          "Drama",
+          "Crimen"
+        ],
+        "runtime": 143,
+        "rating": 8.732,
+        "votes": 31560,
+        "tagline": "El miedo te hace prisionero. Sólo la esperanza puede liberar.",
+        "country": "United States of America",
+        "director": [
+          "Frank Darabont"
+        ],
+        "cast": [
+          "Tim Robbins",
+          "Morgan Freeman",
+          "Bob Gunton",
+          "William Sadler",
+          "Clancy Brown",
+          "Gil Bellows",
+          "James Whitmore",
+          "Mark Rolston",
+          "Jeffrey DeMunn",
+          "Larry Brandenburg"
+        ],
+        "poster": "assets/poster-tmdb-movie-278.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+        "source": "https://www.themoviedb.org/movie/278",
+        "trailer": "https://www.youtube.com/watch?v=4u87tmlj4oE",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-45741293fa68",
+      "title": "Cristal oscuro",
+      "type": "movies",
+      "year": "1982",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3884866942,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5587.58,
+            "width": 1920,
+            "height": 816,
+            "video": [
+              "h264 (High), yuv420p(tv, bt709, progressive), 1920x816, SAR 1:1 DAR 40:17, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)",
+              "Stream #0:5(spa): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:6(eng): Subtitle: hdmv_pgs_subtitle (pgssub)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3884866942,
+      "meta": {
+        "matched": true,
+        "tmdb": 11639,
+        "imdb": "tt0083791",
+        "title": "Cristal oscuro",
+        "original": "The Dark Crystal",
+        "year": "1982",
+        "synopsis": "En otro mundo, en otro tiempo... En la época de la fantasía... habitaban el mundo unos seres llamados Urskeks, que vivían en paz y armonía... Hasta que uno de ellos dañó el centro de su mundo, su más preciado tesoro: el Cristal Oscuro. Su mundo cambió a partir de ese momento. Los Urskeks se dividieron en dos razas, los sabios Místicos, que viven en continua meditación apartados de la sociedad, y los malvados Skeksis, quienes reinan sobre la tierra, dominando a todas las razas con su crueldad. Místicos y Skeksis viven interconectados: cada uno de ellos tiene una contrapartida en la raza opuesta. Así, cuando un Místico sufre una herida su Skeksis correspondiente recibe el mismo daño, y cuando muere un Skeksis muere un Místico del mismo modo, y viceversa.",
+        "genres": [
+          "Aventura",
+          "Familia",
+          "Fantasía"
+        ],
+        "runtime": 89,
+        "rating": 7.2,
+        "votes": 1326,
+        "tagline": "Otro mundo, otro tiempo... En la era de las maravillas.",
+        "country": "United Kingdom, United States of America",
+        "director": [
+          "Frank Oz",
+          "Jim Henson"
+        ],
+        "cast": [
+          "Jim Henson",
+          "Kathryn Mullen",
+          "Frank Oz",
+          "Dave Goelz",
+          "Steve Whitmire",
+          "Louise Gold",
+          "Brian Meehl",
+          "Stephen Garlick",
+          "Lisa Maxwell",
+          "Billie Whitelaw"
+        ],
+        "poster": "assets/poster-tmdb-movie-11639.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dlIkuHYT977POygUBGZyOszFUB.jpg",
+        "source": "https://www.themoviedb.org/movie/11639",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-6732afabc3fc",
+      "title": "Donnie Brasco",
+      "type": "movies",
+      "year": "1997",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2987482015,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7600.32,
+            "width": 1920,
+            "height": 800,
+            "video": [
+              "hevc (Main), yuv420p(tv, bt709), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: eac3, 48000 Hz, stereo, fltp, 224 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2987482015,
+      "meta": {
+        "matched": true,
+        "tmdb": 9366,
+        "imdb": "tt0119008",
+        "title": "Donnie Brasco",
+        "original": "Donnie Brasco",
+        "year": "1997",
+        "synopsis": "Basada en hechos reales, narra la historia del agente del FBI, Joe Pistone, que abandona temporalmente a su familia y se hace pasar por gángster, el joyero Donnie Brasco, y que para ser aceptado por los mafiosos debe probar su lealtad y su disposición para cometer crímenes. Para acceder al corazón de las actividades del clan de los Bonnano, Donnie se gana la confianza de Lefty Ruggiero, un cínico pistolero en decadencia que nunca consiguió entrar en las altas esferas del poder.",
+        "genres": [
+          "Crimen",
+          "Drama",
+          "Suspense"
+        ],
+        "runtime": 125,
+        "rating": 7.533,
+        "votes": 5019,
+        "tagline": "Basado en una historia real.",
+        "country": "United States of America",
+        "director": [
+          "Mike Newell"
+        ],
+        "cast": [
+          "Johnny Depp",
+          "Al Pacino",
+          "Michael Søren Madsen",
+          "Bruno Kirby",
+          "James Russo",
+          "Anne Heche",
+          "Željko Ivanek",
+          "Brian Tarantina",
+          "Rocco Sisto",
+          "Zach Grenier"
+        ],
+        "poster": "assets/poster-tmdb-movie-9366.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gXWzBnxUfLCT0w0WzAmJ5wF37hC.jpg",
+        "source": "https://www.themoviedb.org/movie/9366",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-80c0e0ff8e85",
+      "title": "Dos hombres y un destino",
+      "type": "movies",
+      "year": "1969",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2492796372,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6626.66,
+            "width": 1920,
+            "height": 808,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv, bt709), 1920x808 [SAR 1:1 DAR 240:101], 23.98 fps, 23.98 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s",
+              "Stream #0:3(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s",
+              "Stream #0:4(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:5(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:6(spa): Subtitle: subrip (srt)",
+              "Stream #0:7(eng): Subtitle: subrip (srt)",
+              "Stream #0:8(spa): Subtitle: subrip (srt)",
+              "Stream #0:9(spa): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2492796372,
+      "meta": {
+        "matched": true,
+        "tmdb": 642,
+        "imdb": "tt0064115",
+        "title": "Dos hombres y un destino",
+        "original": "Butch Cassidy and the Sundance Kid",
+        "year": "1969",
+        "synopsis": "Un grupo de jóvenes pistoleros se dedica a asaltar los bancos del estado de Wyoming y el tren-correo de la Union Pacific. El jefe de la banda es el carismático Butch Cassidy, y Sundance Kid es su inseparable compañero. Un día, después de un atraco, el grupo se disuelve. Será entonces cuando Butch, Sundance y una joven maestra de Denver formen un trío de románticos forajidos que, huyendo de la ley, llegan hasta Bolivia.",
+        "genres": [
+          "Western",
+          "Crimen",
+          "Drama"
+        ],
+        "runtime": 112,
+        "rating": 7.609,
+        "votes": 2570,
+        "tagline": "No es que importe, pero la mayor parte es verdad.",
+        "country": "United States of America",
+        "director": [
+          "George Roy Hill"
+        ],
+        "cast": [
+          "Paul Newman",
+          "Robert Redford",
+          "Katharine Ross",
+          "Strother Martin",
+          "Henry Jones",
+          "Jeff Corey",
+          "George Furth",
+          "Cloris Leachman",
+          "Ted Cassidy",
+          "Kenneth Mars"
+        ],
+        "poster": "assets/poster-tmdb-movie-642.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+        "source": "https://www.themoviedb.org/movie/642",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-b416236a21be",
+      "title": "Drácula. Príncipe de las tinieblas",
+      "type": "movies",
+      "year": "1966",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2013768627,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5411.52,
+            "width": 1920,
+            "height": 812,
+            "video": [
+              "h264 (High), yuv420p(tv, bt709, progressive), 1920x812 [SAR 1:1 DAR 480:203], 24 fps, 24 tbr, 1k tbn (default)",
+              "mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1082x1554 [SAR 72:72 DAR 541:777], 90k tbr, 90k tbn (attached pic)"
+            ],
+            "audio": [
+              "Stream #0:1(cat): Audio: aac (LC), 48000 Hz, stereo, fltp (default) (forced)",
+              "Stream #0:2(spa): Audio: aac (LC), 48000 Hz, stereo, fltp",
+              "Stream #0:3(eng): Audio: aac (LC), 48000 Hz, stereo, fltp"
+            ],
+            "subtitles": []
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2013768627,
+      "meta": {
+        "matched": true,
+        "tmdb": 17102,
+        "imdb": "tt0059127",
+        "title": "Drácula. Príncipe de las tinieblas",
+        "original": "Dracula: Prince of Darkness",
+        "year": "1966",
+        "synopsis": "El padre Sandor, abad de Kleinberg, envía un mensaje a los miembros de una expedición que se dirige a las montañas, aconsejándoles no seguir adelante. A pesar del aviso, los Kent deciden continuar el viaje. Al anochecer, su aterrado cochero se niega a seguir avanzando y los abandona en medio del bosque. En tal circunstancia, aparece un misterioso carruaje negro que los conduce a un enorme y misterioso castillo, donde son hospitalariamente recibidos por el conde Drácula.",
+        "genres": [
+          "Terror"
+        ],
+        "runtime": 90,
+        "rating": 6.7,
+        "votes": 305,
+        "tagline": "",
+        "country": "United Kingdom",
+        "director": [
+          "Terence Fisher"
+        ],
+        "cast": [
+          "Christopher Lee",
+          "Barbara Shelley",
+          "Andrew Keir",
+          "Francis Matthews",
+          "Suzan Farmer",
+          "Thorley Walters",
+          "Philip Latham",
+          "Charles Tingwell",
+          "Walter Brown",
+          "George Woodbridge"
+        ],
+        "poster": "assets/poster-tmdb-movie-17102.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1BaTdEzBaZDW8z1wk1twkXMpwsd.jpg",
+        "source": "https://www.themoviedb.org/movie/17102",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-9e99dba774f5",
+      "title": "Dredd",
+      "type": "movies",
+      "year": "2012",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 4407566243,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5753.79,
+            "width": 1920,
+            "height": 800,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: dts (dca) (DTS), 48000 Hz, 5.1(side), fltp, 768 kb/s (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:5(eng): Subtitle: hdmv_pgs_subtitle (pgssub)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 4407566243,
+      "meta": {
+        "matched": true,
+        "tmdb": 49049,
+        "imdb": "tt1343727",
+        "title": "Dredd",
+        "original": "Dredd",
+        "year": "2012",
+        "synopsis": "En un futuro cercano, Norteamérica se ha convertido en un páramo asolado por la radiactividad. Una única y gran megalópolis se extiende a lo largo de la costa este: Mega City 1. Esta inmensa y violenta urbe cuenta con una población de más de 800 millones de personas, cada una de las cuales es un infractor en potencia. Los encargados de acabar con el caos e imponer el orden son unos individuos que actúan a la vez como agentes de la ley, jueces, jurados y verdugos. Al frente de ellos está Dredd (Karl Urban), una leyenda viva de la justicia que vive entregado por entero a hacer cumplir la ley. En una misión aparentemente rutinaria junto a Cassandra Anderson (Olivia Thrilby), una juez novata dotada de grandes habilidades psíquicas, se disponen a investigar un homicidio en un peligroso rascacielos de 200 pisos de altura, controlado por el clan de la despiadada Ma-Ma (Lena Headley).",
+        "genres": [
+          "Acción",
+          "Ciencia ficción"
+        ],
+        "runtime": 95,
+        "rating": 6.863,
+        "votes": 5764,
+        "tagline": "Juez. Jurado. Ejecutor.",
+        "country": "South Africa, United Kingdom, United States of America, India",
+        "director": [
+          "Pete Travis"
+        ],
+        "cast": [
+          "Karl Urban",
+          "Olivia Thirlby",
+          "Lena Headey",
+          "Wood Harris",
+          "Langley Kirkwood",
+          "Tamer Burjaq",
+          "Joe Vaz",
+          "Rakie Ayola",
+          "Junior Singo",
+          "Luke Tyler"
+        ],
+        "poster": "assets/poster-tmdb-movie-49049.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jUqDBi02CDjqrroC3Zl8hroBbSr.jpg",
+        "source": "https://www.themoviedb.org/movie/49049",
+        "trailer": "https://www.youtube.com/watch?v=EErKLJcnWPQ",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-aff9a5d0bbf3",
+      "title": "El misterio de Salem's Lot",
+      "type": "series",
+      "year": "1979",
+      "files": [
+        {
+          "name": "Temporada 1, capítulo 1",
+          "bytes": 1765472655,
+          "season": 1,
+          "episode": 1,
+          "technical": {
+            "status": "ok",
+            "seconds": 5516.24,
+            "width": 720,
+            "height": 538,
+            "video": [
+              "h264 (High), yuv420p(tv, progressive), 720x538 [SAR 1:1 DAR 360:269], 25 fps, 25 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: ac3, 48000 Hz, mono, fltp, 192 kb/s (default)",
+              "Stream #0:2: Audio: ac3, 48000 Hz, mono, fltp, 192 kb/s"
+            ],
+            "subtitles": []
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        },
+        {
+          "name": "Temporada 1, capítulo 2",
+          "bytes": 1772966996,
+          "season": 1,
+          "episode": 2,
+          "technical": {
+            "status": "ok",
+            "seconds": 5523.24,
+            "width": 720,
+            "height": 538,
+            "video": [
+              "h264 (High), yuv420p(tv, progressive), 720x538 [SAR 1:1 DAR 360:269], 25 fps, 25 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: ac3, 48000 Hz, mono, fltp, 192 kb/s (default)",
+              "Stream #0:2: Audio: ac3, 48000 Hz, mono, fltp, 192 kb/s"
+            ],
+            "subtitles": []
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3538439651,
+      "meta": {
+        "matched": true,
+        "tmdb": 16118,
+        "imdb": "tt0079844",
+        "title": "El misterio de Salem's Lot",
+        "original": "Salem's Lot",
+        "year": "1979",
+        "synopsis": "Después de haber estado ausente durante años, el novelista Ben Mears (David Soul) regresa a Salem, su pueblo natal. Buscando inspiración para su nueva novela, se instala en una especie de casa encantada en lo alto de una colina, donde vivió una desagradable experiencia cuando era niño. La casa pertenece al anticuario señor Barlow (James Mason), que ha llegado al pueblo con su ayudante Straker. Cuando los vecinos se van convirtiendo en vampiros, el terror se apoderará del pueblo. Ben intentará averiguar el origen de la epidemia para erradicarla",
+        "genres": [
+          "Misterio"
+        ],
+        "runtime": null,
+        "rating": 6.8,
+        "votes": 557,
+        "tagline": "",
+        "country": "United States of America",
+        "director": [],
+        "cast": [
+          "David Soul",
+          "James Mason",
+          "Lance Kerwin",
+          "Bonnie Bedelia",
+          "Lew Ayres",
+          "Julie Cobb",
+          "Elisha Cook Jr.",
+          "George Dzundza",
+          "Ed Flanders",
+          "Clarissa Kaye-Mason"
+        ],
+        "poster": "assets/poster-tmdb-tv-16118.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gtpcM2uLLo99mL4Z7OntpCoWqEi.jpg",
+        "source": "https://www.themoviedb.org/tv/16118",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-c64e613e7dc9",
+      "title": "El renacido",
+      "type": "movies",
+      "year": "2015",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 4845400514,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 9381.46,
+            "width": 1280,
+            "height": 544,
+            "video": [
+              "h264 (Main), yuv420p(tv, bt709, progressive), 1280x544, SAR 1:1 DAR 40:17, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: ass (ssa) (default)",
+              "Stream #0:4(spa): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:5(spa): Subtitle: ass (ssa)",
+              "Stream #0:6(eng): Subtitle: ass (ssa)",
+              "Stream #0:7(eng): Subtitle: ass (ssa)",
+              "Stream #0:8(eng): Subtitle: ass (ssa)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 4845400514,
+      "meta": {
+        "matched": true,
+        "tmdb": 281957,
+        "imdb": "tt1663202",
+        "title": "El renacido",
+        "original": "The Revenant",
+        "year": "2015",
+        "synopsis": "Durante una expedición en las tierras salvajes americanas, el legendario explorador Hugh Glass es brutalmente atacado por un oso y dado por muerto por los miembros de su propia partida de caza. En su cruzada por sobrevivir, Glass supera inimaginables tribulaciones, además de la traición de su confidente John Fitzgerald. Guiado por la pura determinación y el amor de su familia, Glass deberá superar un duro invierno mientras busca sin descanso un motivo para seguir adelante y encontrar la redención.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Aventura"
+        ],
+        "runtime": 156,
+        "rating": 7.541,
+        "votes": 19810,
+        "tagline": "Sangre perdida. Vida encontrada.",
+        "country": "Canada, Hong Kong, Taiwan, United States of America",
+        "director": [
+          "Alejandro González Iñárritu"
+        ],
+        "cast": [
+          "Leonardo DiCaprio",
+          "Tom Hardy",
+          "Domhnall Gleeson",
+          "Will Poulter",
+          "Forrest Goodluck",
+          "Duane Howard",
+          "Arthur Redcloud",
+          "Melaw Nakehk'o",
+          "Grace Dove",
+          "Lukas Haas"
+        ],
+        "poster": "assets/poster-tmdb-movie-281957.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
+        "source": "https://www.themoviedb.org/movie/281957",
+        "trailer": "https://www.youtube.com/watch?v=a8HRA49kaok",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-b8d0ee5fed2e",
+      "title": "El castañazo",
+      "type": "movies",
+      "year": "1977",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 5544150848,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7374.72,
+            "width": 1920,
+            "height": 1040,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv, bt709), 1920x1040 [SAR 1:1 DAR 24:13], 23.98 fps, 23.98 tbr, 1k tbn (default) (forced)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 320 kb/s (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, stereo, fltp, 320 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: hdmv_pgs_subtitle (pgssub) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:5(eng): Subtitle: hdmv_pgs_subtitle (pgssub)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 5544150848,
+      "meta": {
+        "matched": true,
+        "tmdb": 11590,
+        "imdb": "tt0076723",
+        "title": "El castañazo",
+        "original": "Slap Shot",
+        "year": "1977",
+        "synopsis": "Un veterano jugador que entrena a un equipo de hockey sobre hielo (Newman) ve cómo las derrotas se suceden hasta que decide aplicar la más brutal de las tácticas: aconseja a sus jugadores que jueguen como verdaderos animales durante los partidos, sin importar si la violencia que emplean es o no legal. Divertida y muy bien interpretada, fue duramente criticada en su estreno por su violento -y extremadamente liberal- mensaje.",
+        "genres": [
+          "Comedia",
+          "Drama"
+        ],
+        "runtime": 122,
+        "rating": 6.775,
+        "votes": 469,
+        "tagline": "¡¡Si esta película no te hace reír, es mejor que veas a un psiquiátra!!",
+        "country": "United States of America",
+        "director": [
+          "George Roy Hill"
+        ],
+        "cast": [
+          "Paul Newman",
+          "Strother Martin",
+          "Michael Ontkean",
+          "Jennifer Warren",
+          "Lindsay Crouse",
+          "Jerry Houser",
+          "Andrew Duncan",
+          "Jeff Carlson",
+          "Steve Carlson",
+          "David Hanson"
+        ],
+        "poster": "assets/poster-tmdb-movie-11590.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kAMgr9znXqu07SQjdbT1vwUeqYD.jpg",
+        "source": "https://www.themoviedb.org/movie/11590",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-6f0444f9d3c0",
+      "title": "El guateque",
+      "type": "movies",
+      "year": "1968",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 1471193607,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5943.52,
+            "width": 1920,
+            "height": 816,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x816, SAR 1:1 DAR 40:17, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: ac3, 48000 Hz, stereo, fltp (default)",
+              "Stream #0:2: Audio: ac3, 48000 Hz, stereo, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:3: Subtitle: subrip (srt) (default)",
+              "Stream #0:4: Subtitle: subrip (srt)",
+              "Stream #0:5: Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 1471193607,
+      "meta": {
+        "matched": true,
+        "tmdb": 10794,
+        "imdb": "tt0063415",
+        "title": "El guateque",
+        "original": "The Party",
+        "year": "1968",
+        "synopsis": "Hrundi V. Bakshi es un patoso actor de origen hindú que se encuentra rodadando una película en el desierto. Sus continuas meteduras de pata le llevan a ser despedido del rodaje. Curiosamente recibe la invitación a una fiesta organizada por el productor de su última película. En la fiesta todos parecen felices, pero Hrundi no conoce a nadie y ante tanta sofisticación social, empezarán a sucederse curiosas situaciones.",
+        "genres": [
+          "Comedia"
+        ],
+        "runtime": 99,
+        "rating": 7.302,
+        "votes": 898,
+        "tagline": "Si alguna ver participó de una fiesta más salvaje... ¡queda usted arrestado!",
+        "country": "United States of America",
+        "director": [
+          "Blake Edwards"
+        ],
+        "cast": [
+          "Peter Sellers",
+          "Claudine Longet",
+          "Natalia Borisova",
+          "Jean Carson",
+          "Marge Champion",
+          "Al Checco",
+          "Corinne Cole",
+          "Dick Crockett",
+          "Frances Davis",
+          "Danielle De Metz"
+        ],
+        "poster": "assets/poster-tmdb-movie-10794.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jqw9t9nshz9mV79C66PV2giHVw6.jpg",
+        "source": "https://www.themoviedb.org/movie/10794",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-02dd973a237e",
+      "title": "El hombre de las mil caras",
+      "type": "movies",
+      "year": "2016",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3939640222,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7368.49,
+            "width": 1920,
+            "height": 800,
+            "video": [
+              "h264 (High), yuv420p(tv, bt709, progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default) (forced)"
+            ],
+            "subtitles": []
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3939640222,
+      "meta": {
+        "matched": true,
+        "tmdb": 361777,
+        "imdb": "tt1713440",
+        "title": "El hombre de las mil caras",
+        "original": "El hombre de las mil caras",
+        "year": "2016",
+        "synopsis": "Francisco Paesa, ex agente secreto del gobierno español, responsable de la operación contra ETA más importante de la historia, se ve envuelto en un caso de extorsión en plena crisis de los GAL y tiene que huir del país. Cuando regresa al cabo de los años está arruinado y su vida personal atraviesa su peor momento. En estas circunstancias, recibe la visita de Luis Roldán, ex Director General de la Guardia Civil, y de su mujer Nieves Fernández Puerto, quienes le ofrecen un millón de dólares por ayudarles a salvar 1.500 millones de pesetas sustraídos al erario público y para brindarle una oportunidad idónea de mejorar su situación económica, vengándose del gobierno español, en una magistral operación digna del mejor espía ayudado de Jesús Camoes, su inseparable amigo.",
+        "genres": [
+          "Historia",
+          "Suspense"
+        ],
+        "runtime": 125,
+        "rating": 6.5,
+        "votes": 270,
+        "tagline": "La historia del hombre que engañó a todo un país",
+        "country": "Spain",
+        "director": [
+          "Alberto Rodríguez"
+        ],
+        "cast": [
+          "Eduard Fernández",
+          "Carlos Santos",
+          "Jose Coronado",
+          "Marta Etura",
+          "Itziar Atienza",
+          "Christian Stamm",
+          "Craig Stevenson",
+          "Luis Callejo",
+          "Emilio Gutiérrez Caba",
+          "Pedro Casablanc"
+        ],
+        "poster": "assets/poster-tmdb-movie-361777.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pJDGcikenLHXiksHcNRd6gUVk9X.jpg",
+        "source": "https://www.themoviedb.org/movie/361777",
+        "trailer": "https://www.youtube.com/watch?v=wTqsaZ79xk8",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-f89749d8a11b",
+      "title": "El mago de Oz",
+      "type": "movies",
+      "year": "1939",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3195469205,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6108.15,
+            "width": 1480,
+            "height": 1080,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1480x1080, SAR 1:1 DAR 37:27, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, mono, fltp (default)",
+              "Stream #0:2(eng): Audio: aac (LC), 48000 Hz, mono, fltp",
+              "Stream #0:3(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:4(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:5(spa): Subtitle: subrip (srt)",
+              "Stream #0:6(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3195469205,
+      "meta": {
+        "matched": true,
+        "tmdb": 630,
+        "imdb": "tt0032138",
+        "title": "El mago de Oz",
+        "original": "The Wizard of Oz",
+        "year": "1939",
+        "synopsis": "La huérfana Dorothy Gale vive una vida sencilla en Kansas con su tía Emma Clara Blandick, su tío Henry y tres pintorescos peones: Hunk, Zeke y Hickory. Un día la severa vecina Miss Gulch es mordida por el perro de Dorothy, Toto. Miss Gulch se lo lleva, por orden del sheriff, a pesar de las apasionadas protestas de tía Emma y el tío Henry. Toto escapa y regresa junto a Dorothy, la cual se alegra momentáneamente, pero pronto se da cuenta de que Miss Gulch regresará. Decide llevarse a Toto y fugarse en busca de una vida mejor 'en algún lugar sobre el arco iris'.",
+        "genres": [
+          "Aventura",
+          "Fantasía",
+          "Familia"
+        ],
+        "runtime": 103,
+        "rating": 7.6,
+        "votes": 6322,
+        "tagline": "GAIETY! GLORY! GLAMOUR!",
+        "country": "United States of America",
+        "director": [
+          "Victor Fleming"
+        ],
+        "cast": [
+          "Judy Garland",
+          "Ray Bolger",
+          "Jack Haley",
+          "Bert Lahr",
+          "Frank Morgan",
+          "Margaret Hamilton",
+          "Billie Burke",
+          "Clara Blandick",
+          "Charley Grapewin",
+          "Pat Walshe"
+        ],
+        "poster": "assets/poster-tmdb-movie-630.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+        "source": "https://www.themoviedb.org/movie/630",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-27b9ba6551c9",
+      "title": "El último mohicano",
+      "type": "movies",
+      "year": "1992",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2121974578,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6873.09,
+            "width": 1920,
+            "height": 800,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv, bt709), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: ass (ssa)",
+              "Stream #0:4(spa): Subtitle: ass (ssa)",
+              "Stream #0:5(eng): Subtitle: ass (ssa)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2121974578,
+      "meta": {
+        "matched": true,
+        "tmdb": 9361,
+        "imdb": "tt0104691",
+        "title": "El último mohicano",
+        "original": "The Last of the Mohicans",
+        "year": "1992",
+        "synopsis": "En 1757, a orillas del río Hudson, tropas francesas e inglesas luchan por el dominio de la región. Los ingleses reclutan a los granjeros asentados en esas tierras para formar un ejército capaz de enfrentarse a las tropas franco-indias. Hawkeye -Ojo de halcón- (Daniel Day-Lewis) es un hombre blanco adoptado por los indios mohicanos que vive con su padre (Russell Means) y su hermano Uncas (Eric Schweig). Tras rescatar de una emboscada de los hurones a Cora Munro (Madeleine Stowe) y a su hermana pequeña Alice (Jodhi May), hijas de un oficial británico, los tres deciden acompañarlas al fuerte inglés William Henry, que está siendo asediado por franceses y hurones. Allí les obligan a quedarse con un grupo de británicos que acaban de llegar de las colonias...",
+        "genres": [
+          "Historia",
+          "Bélica",
+          "Drama"
+        ],
+        "runtime": 108,
+        "rating": 7.4,
+        "votes": 3572,
+        "tagline": "El primer héroe americano.",
+        "country": "United States of America",
+        "director": [
+          "Michael Mann"
+        ],
+        "cast": [
+          "Daniel Day-Lewis",
+          "Madeleine Stowe",
+          "Jodhi May",
+          "Russell Means",
+          "Wes Studi",
+          "Eric Schweig",
+          "Steven Waddington",
+          "Maurice Roëves",
+          "Pete Postlethwaite",
+          "Colm Meaney"
+        ],
+        "poster": "assets/poster-tmdb-movie-9361.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+        "source": "https://www.themoviedb.org/movie/9361",
+        "trailer": "https://www.youtube.com/watch?v=IHVnrh1y2Aw",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-7133c79a7368",
+      "title": "Giro al infierno",
+      "type": "movies",
+      "year": "1997",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3248510980,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7446.59,
+            "width": 1920,
+            "height": 1040,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv, bt709), 1920x1040 [SAR 1:1 DAR 24:13], 23.98 fps, 23.98 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(spa): Subtitle: hdmv_pgs_subtitle (pgssub)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3248510980,
+      "meta": {
+        "matched": true,
+        "tmdb": 10155,
+        "imdb": "tt0120399",
+        "title": "Giro al infierno",
+        "original": "U Turn",
+        "year": "1997",
+        "synopsis": "Después de un accidente de coche en el desierto de Arizona, Bobby Cooper consigue llegar a un pequeño pueblo habitado por gentes muy extrañas. Allí conoce a una pareja formada por un hombre maduro y una atractiva joven. Pronto, el marido le propondrá matar a su esposa. Poco después, ella le propondrá matar a su marido.",
+        "genres": [
+          "Crimen",
+          "Drama",
+          "Suspense",
+          "Romance"
+        ],
+        "runtime": 118,
+        "rating": 6.596,
+        "votes": 853,
+        "tagline": "Esperar lo inesperado.",
+        "country": "France, United States of America",
+        "director": [
+          "Oliver Stone"
+        ],
+        "cast": [
+          "Sean Penn",
+          "Nick Nolte",
+          "Jennifer Lopez",
+          "Joaquin Phoenix",
+          "Claire Danes",
+          "Powers Boothe",
+          "Billy Bob Thornton",
+          "Jon Voight",
+          "Abraham Benrubi",
+          "Richard Rutowski"
+        ],
+        "poster": "assets/poster-tmdb-movie-10155.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rq6duKhgffOtMs9LqgyhrJ9Y8EX.jpg",
+        "source": "https://www.themoviedb.org/movie/10155",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-e354211e719e",
+      "title": "Idiocracia",
+      "type": "movies",
+      "year": "2006",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2039342004,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5051.71,
+            "width": 1920,
+            "height": 1036,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x1036 [SAR 1:1 DAR 480:259], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2039342004,
+      "meta": {
+        "matched": true,
+        "tmdb": 7512,
+        "imdb": "tt0387808",
+        "title": "Idiocracia",
+        "original": "Idiocracy",
+        "year": "2006",
+        "synopsis": "Tras un experimento militar fallido, el oficial Joe Bawers y la prostituta Rita despiertan quinientos años adelante en el futuro, en un mundo distópico en el que la selección natural ha favorecido a los más idiotas, debido a que se reproducen más. Esto ha resultado en una humanidad estúpida e ignorante, de modo que Joe descubre que es el hombre más inteligente del planeta. Pronto se convierte en un cercano consejero del Presidente de los Estados Unidos, el excéntrico Camacho.",
+        "genres": [
+          "Comedia",
+          "Ciencia ficción",
+          "Aventura",
+          "Suspense"
+        ],
+        "runtime": 85,
+        "rating": 6.4,
+        "votes": 3858,
+        "tagline": "En el futuro, la inteligencia está extinta",
+        "country": "United States of America",
+        "director": [
+          "Mike Judge"
+        ],
+        "cast": [
+          "Luke Wilson",
+          "Maya Rudolph",
+          "Dax Shepard",
+          "Terry Crews",
+          "Anthony 'Citric' Campos",
+          "David Herman",
+          "Sonny Castillo",
+          "Kevin McAfee",
+          "Robert Musgrave",
+          "Michael McCafferty"
+        ],
+        "poster": "assets/poster-tmdb-movie-7512.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
+        "source": "https://www.themoviedb.org/movie/7512",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-bb185d81eb6c",
+      "title": "Infiltrados",
+      "type": "movies",
+      "year": "2006",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 5239615826,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 9085.87,
+            "width": 1920,
+            "height": 796,
+            "video": [
+              "h264 (High), yuv420p(tv, bt709, progressive), 1920x796 [SAR 1:1 DAR 480:199], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)",
+              "Stream #0:6: Subtitle: subrip (srt) (forced)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 5239615826,
+      "meta": {
+        "matched": true,
+        "tmdb": 1422,
+        "imdb": "tt0407887",
+        "title": "Infiltrados",
+        "original": "The Departed",
+        "year": "2006",
+        "synopsis": "El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa. El encargado de infiltrarse en la banda es un joven novato, Billy Costigan. Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan, sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.",
+        "genres": [
+          "Drama",
+          "Suspense",
+          "Crimen"
+        ],
+        "runtime": 149,
+        "rating": 8.159,
+        "votes": 16765,
+        "tagline": "Mentiras, Traición, Sacrificio... ¿Cuanto aguantaras?",
+        "country": "Hong Kong, United States of America",
+        "director": [
+          "Martin Scorsese"
+        ],
+        "cast": [
+          "Leonardo DiCaprio",
+          "Matt Damon",
+          "Jack Nicholson",
+          "Mark Wahlberg",
+          "Martin Sheen",
+          "Ray Winstone",
+          "Vera Farmiga",
+          "Anthony Anderson",
+          "Alec Baldwin",
+          "Kevin Corrigan"
+        ],
+        "poster": "assets/poster-tmdb-movie-1422.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "source": "https://www.themoviedb.org/movie/1422",
+        "trailer": "https://www.youtube.com/watch?v=pAOo96KghRY",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-8961752dd165",
+      "title": "JFK: Caso abierto",
+      "type": "movies",
+      "year": "1991",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3526925570,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 12348.54,
+            "width": 1918,
+            "height": 798,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1918x798 [SAR 1:1 DAR 137:57], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3526925570,
+      "meta": {
+        "matched": true,
+        "tmdb": 820,
+        "imdb": "tt0102138",
+        "title": "JFK: Caso abierto",
+        "original": "JFK",
+        "year": "1991",
+        "synopsis": "El fiscal de Nueva Orleans, Jim Garrison, reabrió el caso del asesinato del presidente de los Estados Unidos John F. Kennedy y presentó cargos contra algunas personas. Después de entrevistar a numerosos testigos de Dallas y a personas relacionadas con los hechos, mantuvo la tesis de que el magnicidio fue fruto de una conspiración en la que podrían haber intervenido el FBI, la CIA y el propio vicepresidente Lindon B. Johnson.",
+        "genres": [
+          "Drama",
+          "Suspense",
+          "Historia"
+        ],
+        "runtime": 189,
+        "rating": 7.592,
+        "votes": 2518,
+        "tagline": "La historia que no va a desaparecer.",
+        "country": "United States of America, France",
+        "director": [
+          "Oliver Stone"
+        ],
+        "cast": [
+          "Kevin Costner",
+          "Tommy Lee Jones",
+          "Gary Oldman",
+          "Kevin Bacon",
+          "Michael Rooker",
+          "Jack Lemmon",
+          "Laurie Metcalf",
+          "Sissy Spacek",
+          "Joe Pesci",
+          "John Candy"
+        ],
+        "poster": "assets/poster-tmdb-movie-820.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/77gjiDyD94aJfqZq6AJAcMLxZhd.jpg",
+        "source": "https://www.themoviedb.org/movie/820",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-8c9f277e06c9",
+      "title": "La pantera rosa ataca de nuevo",
+      "type": "movies",
+      "year": "1976",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2411992159,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6204.77,
+            "width": 1920,
+            "height": 824,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x824 [SAR 1:1 DAR 240:103], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 224 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2411992159,
+      "meta": {
+        "matched": true,
+        "tmdb": 12268,
+        "imdb": "tt0075066",
+        "title": "La pantera rosa ataca de nuevo",
+        "original": "The Pink Panther Strikes Again",
+        "year": "1976",
+        "synopsis": "Mientras el jefe del inspector Clouseau, Paul Dreyfus, se recupera paulatinamente de una crisis nerviosa provocada por su temible subordinado, éste decide acudir al hospital a visitarlo. Al verlo en su habitación, Dreyfus, sufre un arrebato de locura y jura que en lo sucesivo dedicará su vida a la venganza.",
+        "genres": [
+          "Comedia",
+          "Crimen"
+        ],
+        "runtime": 115,
+        "rating": 6.869,
+        "votes": 653,
+        "tagline": "",
+        "country": "United Kingdom, United States of America",
+        "director": [
+          "Blake Edwards"
+        ],
+        "cast": [
+          "Peter Sellers",
+          "Herbert Lom",
+          "Leonard Rossiter",
+          "Colin Blakely",
+          "Graham Stark",
+          "Byron Kane",
+          "Dick Crockett",
+          "Richard Vernon",
+          "Briony McRoberts",
+          "Burt Kwouk"
+        ],
+        "poster": "assets/poster-tmdb-movie-12268.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fjH4p9RFY9wcChRY3rc6bumfS23.jpg",
+        "source": "https://www.themoviedb.org/movie/12268",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-a58a24eb753b",
+      "title": "La condesa descalza",
+      "type": "movies",
+      "year": "1954",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2614445683,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7813.27,
+            "width": 1920,
+            "height": 1040,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x1040 [SAR 1:1 DAR 24:13], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, stereo, fltp (default)",
+              "Stream #0:2(spa): Audio: aac (LC), 48000 Hz, stereo, fltp",
+              "Stream #0:3(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:4(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2614445683,
+      "meta": {
+        "matched": true,
+        "tmdb": 34689,
+        "imdb": "tt0046754",
+        "title": "La condesa descalza",
+        "original": "The Barefoot Contessa",
+        "year": "1954",
+        "synopsis": "Tres cineastas estadounidenses descubren a una extraordinaria bailarina llamada María Vargas. Sin perder ni un minuto, se trasladan a Hollywood y lanzan a la desconocida al estrellato. Kirk, el productor de sus películas, corteja en vano a María. Ella, para humillarle, accede a acompañar al multimillonario Bravano en un crucero por la Riviera.",
+        "genres": [
+          "Drama"
+        ],
+        "runtime": 128,
+        "rating": 6.755,
+        "votes": 288,
+        "tagline": "Una chica con muchas ideas... ¡y un hombre para cada una!",
+        "country": "United States of America, Italy",
+        "director": [
+          "Joseph L. Mankiewicz"
+        ],
+        "cast": [
+          "Humphrey Bogart",
+          "Ava Gardner",
+          "Edmond O'Brien",
+          "Marius Goring",
+          "Valentina Cortese",
+          "Rossano Brazzi",
+          "Elizabeth Sellars",
+          "Warren Stevens",
+          "Franco Interlenghi",
+          "Mari Aldon"
+        ],
+        "poster": "assets/poster-tmdb-movie-34689.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2yK59yDiP4P5hsENbGYSPc3YA5I.jpg",
+        "source": "https://www.themoviedb.org/movie/34689",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-9c1502250c2f",
+      "title": "La historia interminable",
+      "type": "movies",
+      "year": "1984",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 1570919961,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5636.72,
+            "width": 1920,
+            "height": 816,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x816, SAR 1:1 DAR 40:17, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)",
+              "Stream #0:2: Audio: ac3, 48000 Hz, 5.1(side), fltp, 256 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3: Subtitle: subrip (srt) (default)",
+              "Stream #0:4: Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 1570919961,
+      "meta": {
+        "matched": true,
+        "tmdb": 34584,
+        "imdb": "tt0088323",
+        "title": "La historia interminable",
+        "original": "Die unendliche Geschichte",
+        "year": "1984",
+        "synopsis": "Bastián Baltasar Bux es un niño de once años que descubre en una antigua librería un libro titulado “La historia interminable”, el cual posee poderes mágicos. Esa magia hace que el mismo Bastián se convierta en un héroe de esa historia que parece no terminarse nunca, en la que se unirá a Atreyu, otro niño, con el objetivo de salvar al mundo de fantasía.Escondido en el desván de su colegio, Bastián devora durante las horas de clase este enigmático libro, que relata la destrucción de todo un mundo lleno de fantasía. Una especie de \"Nada\" misteriosa destruye todo el país y a todas las criaturas que lo habitan. A medida que avanza en su lectura, Bastián se da cuenta de que la salvación de Fantasía depende de él; de que consiga entrar en el libro.",
+        "genres": [
+          "Aventura",
+          "Fantasía",
+          "Familia"
+        ],
+        "runtime": 95,
+        "rating": 7.227,
+        "votes": 4538,
+        "tagline": "¡Un niño que necesita un amigo encuentra un mundo que necesita un héroe en una tierra más allá de la imaginación!",
+        "country": "Germany",
+        "director": [
+          "Wolfgang Petersen"
+        ],
+        "cast": [
+          "Noah Hathaway",
+          "Barret Oliver",
+          "Tami Stronach",
+          "Alan Oppenheimer",
+          "Sydney Bromley",
+          "Patricia Hayes",
+          "Moses Gunn",
+          "Frank Lenart",
+          "Robert Jadah",
+          "Gerald McRaney"
+        ],
+        "poster": "assets/poster-tmdb-movie-34584.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
+        "source": "https://www.themoviedb.org/movie/34584",
+        "trailer": "https://www.youtube.com/watch?v=uR39ff-jXMI",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-3b56acf3c2ff",
+      "title": "La venganza de la pantera rosa",
+      "type": "movies",
+      "year": "1978",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2665086051,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5937.6,
+            "width": 1920,
+            "height": 816,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x816, SAR 1:1 DAR 40:17, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2665086051,
+      "meta": {
+        "matched": true,
+        "tmdb": 6081,
+        "imdb": "tt0078163",
+        "title": "La venganza de la pantera rosa",
+        "original": "Revenge of the Pink Panther",
+        "year": "1978",
+        "synopsis": "El inspector Jacques Clouseau, condecorado por sus servicios a Francia por el mismo presidente de la Nación, se enfrenta, por primera vez, con la mafia. El jefe de esta organización en Francia, Douvier, quiere acabar con el inspector definitivamente. Este asesinato puede servir también, para que el Padrino de la mafia en Estados Unidos deje de criticar la falta de acción de la organización en Francia. Guy Algo, el teniente de Douvier, piensa en lo fácil que puede ser deshacerse de Clouseau...",
+        "genres": [
+          "Comedia",
+          "Crimen",
+          "Misterio"
+        ],
+        "runtime": 99,
+        "rating": 6.4,
+        "votes": 510,
+        "tagline": "",
+        "country": "United Kingdom, United States of America",
+        "director": [
+          "Blake Edwards"
+        ],
+        "cast": [
+          "Peter Sellers",
+          "Herbert Lom",
+          "Dyan Cannon",
+          "Robert Webber",
+          "Robert Loggia",
+          "Paul Stewart",
+          "Adrienne Corri",
+          "Douglas Wilmer",
+          "Alfie Bass",
+          "Sue Lloyd"
+        ],
+        "poster": "assets/poster-tmdb-movie-6081.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qOxSzq4bAbsqCUjP9Na4PTCDAZe.jpg",
+        "source": "https://www.themoviedb.org/movie/6081",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-d7cf8e606c00",
+      "title": "Salvador",
+      "type": "movies",
+      "year": "1986",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 5065691016,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7355.94,
+            "width": 1280,
+            "height": 696,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1280x696, SAR 1:1 DAR 160:87, 24 fps, 24 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt)",
+              "Stream #0:4(eng): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)",
+              "Stream #0:6(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 5065691016,
+      "meta": {
+        "matched": true,
+        "tmdb": 6106,
+        "imdb": "tt0091886",
+        "title": "Salvador",
+        "original": "Salvador",
+        "year": "1986",
+        "synopsis": "Tragedia sobre las guerras civiles de Centroamérica en los años ochenta. Richard Boyle fue un reportero norteamericano que trabajó en El Salvador en este periodo. La conmoción que experimentó al descubrir por sí mismo ciertos aspectos de la realidad que ignoraba lo impulsó a comprometerse y a tomar partido.",
+        "genres": [
+          "Drama",
+          "Suspense",
+          "Bélica"
+        ],
+        "runtime": 123,
+        "rating": 7.0,
+        "votes": 431,
+        "tagline": "Basada en una Historia Real",
+        "country": "United Kingdom, United States of America, Mexico",
+        "director": [
+          "Oliver Stone"
+        ],
+        "cast": [
+          "James Woods",
+          "Jim Belushi",
+          "Michael Murphy",
+          "John Savage",
+          "Elpidia Carrillo",
+          "Tony Plana",
+          "Colby Chester",
+          "Cynthia Gibb",
+          "Will MacMillan",
+          "Valerie Wildman"
+        ],
+        "poster": "assets/poster-tmdb-movie-6106.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+        "source": "https://www.themoviedb.org/movie/6106",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-6b8d036c181a",
+      "title": "La pantera rosa",
+      "type": "movies",
+      "year": "1963",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 4721726530,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 6908.03,
+            "width": 1920,
+            "height": 824,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv), 1920x824, SAR 1:1 DAR 240:103, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: aac (LC), 48000 Hz, stereo, fltp (default)",
+              "Stream #0:2(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(eng): Subtitle: hdmv_pgs_subtitle (pgssub)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 4721726530,
+      "meta": {
+        "matched": true,
+        "tmdb": 936,
+        "imdb": "tt0057413",
+        "title": "La pantera rosa",
+        "original": "The Pink Panther",
+        "year": "1963",
+        "synopsis": "La seductora Princesa Dala (Claudia Cardinale) llega con su preciosa “pantera rosa\", una magnífica joya en forma de felino, a un lujoso hotel, en el que conoce al elegante y amable Sir Charles (David Niven), bajo cuya inofensiva apariencia se oculta, sin embargo, un despiadado ladrón profesional conocido como “el fantasma”. De impedir que el astuto delincuente se salga con la suya, se encarga el inspector más torpe de la policía francesa, nada más y nada menos que el famoso Jacques Clouseau (Peter Sellers).",
+        "genres": [
+          "Comedia",
+          "Crimen"
+        ],
+        "runtime": 113,
+        "rating": 6.852,
+        "votes": 1237,
+        "tagline": "Una fiesta loca de crimen y diversión.",
+        "country": "United States of America",
+        "director": [
+          "Blake Edwards"
+        ],
+        "cast": [
+          "David Niven",
+          "Peter Sellers",
+          "Claudia Cardinale",
+          "Capucine",
+          "Robert Wagner",
+          "Brenda De Banzie",
+          "Colin Gordon",
+          "John Le Mesurier",
+          "James Lanphier",
+          "Guy Thomajan"
+        ],
+        "poster": "assets/poster-tmdb-movie-936.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eVHH8peqVMN9VcEZvn9yTG6SDed.jpg",
+        "source": "https://www.themoviedb.org/movie/936",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-f161f8fdd88a",
+      "title": "El golpe",
+      "type": "movies",
+      "year": "1973",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 5481123989,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7756.9,
+            "width": 1280,
+            "height": 694,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1280x694, SAR 1:1 DAR 640:347, 23.98 fps, 23.98 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s",
+              "Stream #0:2(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 5481123989,
+      "meta": {
+        "matched": true,
+        "tmdb": 9277,
+        "imdb": "tt0070735",
+        "title": "El golpe",
+        "original": "The Sting",
+        "year": "1973",
+        "synopsis": "En Illinois, en 1936, dos ladrones dan un golpe a un hombre de confianza de un gángster y se embolsan un montón de dinero. El gángster decide vengarse y mata a uno de los que dieron el golpe, mientras que el otro logra escapar y entra en contacto con un ex compinche. Los dos deciden intentar un gran timo que hará temblar las finanzas del jefe de la mafia.",
+        "genres": [
+          "Comedia",
+          "Crimen",
+          "Drama"
+        ],
+        "runtime": 122,
+        "rating": 8.011,
+        "votes": 3134,
+        "tagline": "... sólo hace falta un poco de confianza.",
+        "country": "United States of America",
+        "director": [
+          "George Roy Hill"
+        ],
+        "cast": [
+          "Paul Newman",
+          "Robert Redford",
+          "Robert Shaw",
+          "Charles Durning",
+          "Ray Walston",
+          "Eileen Brennan",
+          "Harold Gould",
+          "John Heffernan",
+          "Dana Elcar",
+          "Jack Kehoe"
+        ],
+        "poster": "assets/poster-tmdb-movie-9277.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+        "source": "https://www.themoviedb.org/movie/9277",
+        "trailer": "https://www.youtube.com/watch?v=UZ4CuWPnfeM",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-31d106316e21",
+      "title": "Vatel",
+      "type": "movies",
+      "year": "2000",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 2202367339,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7028.48,
+            "width": 1920,
+            "height": 816,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x816 [SAR 1:1 DAR 40:17], 24 fps, 24 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, stereo, fltp, 128 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, stereo, fltp, 128 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: ass (ssa) (default)",
+              "Stream #0:4(spa): Subtitle: ass (ssa)",
+              "Stream #0:5(eng): Subtitle: ass (ssa)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 2202367339,
+      "meta": {
+        "matched": true,
+        "tmdb": 7093,
+        "imdb": "tt0190861",
+        "title": "Vatel",
+        "original": "Vatel",
+        "year": "2000",
+        "synopsis": "François Vatel es el leal y devoto maestro de ceremonias del arruinado Príncipe de Condé. El aristócrata necesita recuperar el favor del rey Luis XIV (1643-1715) y espera que éste le otorgue el mando de las tropas en una nueva guerra contra Holanda. Por ello, cuando el rey, acompañado de la corte, decide visitar a Condé en su castillo de Chantilly, éste le encarga a Vatel que organice, sin escatimar en gastos, una espectacular recepción que durará tres días y tres noches.",
+        "genres": [
+          "Historia",
+          "Drama",
+          "Romance"
+        ],
+        "runtime": 103,
+        "rating": 6.135,
+        "votes": 185,
+        "tagline": "",
+        "country": "France, United Kingdom",
+        "director": [
+          "Roland Joffé"
+        ],
+        "cast": [
+          "Gérard Depardieu",
+          "Uma Thurman",
+          "Tim Roth",
+          "Timothy Spall",
+          "Julian Glover",
+          "Julian Sands",
+          "Murray Lachlan Young",
+          "Hywel Bennett",
+          "Richard Griffiths",
+          "Arielle Dombasle"
+        ],
+        "poster": "assets/poster-tmdb-movie-7093.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jjogwfWVmwc4l0iNEmxXdz9fXKU.jpg",
+        "source": "https://www.themoviedb.org/movie/7093",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-1b40c648a2b8",
+      "title": "Wall Street",
+      "type": "movies",
+      "year": "1987",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3472854043,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7544.58,
+            "width": 1920,
+            "height": 1036,
+            "video": [
+              "hevc (Main 10), yuv420p10le(tv, bt709), 1920x1036 [SAR 1:1 DAR 480:259], 23.98 fps, 23.98 tbr, 1k tbn"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default)",
+              "Stream #0:4(spa): Subtitle: subrip (srt)",
+              "Stream #0:5(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3472854043,
+      "meta": {
+        "matched": true,
+        "tmdb": 10673,
+        "imdb": "tt0094291",
+        "title": "Wall Street",
+        "original": "Wall Street",
+        "year": "1987",
+        "synopsis": "Bud Fox es un joven y ambicioso corredor de bolsa que logró finalizar sus estudios universitarios gracias a su esfuerzo y al de su padre, mecánico y jefe de sindicato. Su mayor deseo es trabajar con el hombre al que admira, Gordon Gekko, un individuo sin escrúpulos hecho a sí mismo que, en poco tiempo, ha conseguido amasar una gran fortuna en el mundo de la bolsa. Gracias a su insistencia, Bud consigue introducirse en el círculo privado del todopoderoso Gekko y comienza a colaborar con él en sus negocios e inversiones.",
+        "genres": [
+          "Crimen",
+          "Drama"
+        ],
+        "runtime": 126,
+        "rating": 7.159,
+        "votes": 2344,
+        "tagline": "Todo sueño tiene un precio",
+        "country": "United States of America",
+        "director": [
+          "Oliver Stone"
+        ],
+        "cast": [
+          "Michael Douglas",
+          "Charlie Sheen",
+          "Martin Sheen",
+          "Daryl Hannah",
+          "John C. McGinley",
+          "Hal Holbrook",
+          "Sean Young",
+          "Terence Stamp",
+          "James Spader",
+          "Lauren Tom"
+        ],
+        "poster": "assets/poster-tmdb-movie-10673.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+        "source": "https://www.themoviedb.org/movie/10673",
+        "trailer": "https://www.youtube.com/watch?v=LO3aipUvfK8",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-fd7938ceaf51",
+      "title": "Zoolander (Un descerebrado de moda)",
+      "type": "movies",
+      "year": "2001",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 1187499865,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 5332.68,
+            "width": 1920,
+            "height": 816,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x816, SAR 1:1 DAR 40:17, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1: Audio: aac (HE-AAC), 48000 Hz, 5.1, fltp (default)",
+              "Stream #0:2: Audio: aac (HE-AAC), 48000 Hz, 5.1, fltp"
+            ],
+            "subtitles": [
+              "Stream #0:3: Subtitle: subrip (srt) (default)",
+              "Stream #0:4: Subtitle: subrip (srt)",
+              "Stream #0:5: Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 1187499865,
+      "meta": {
+        "matched": true,
+        "tmdb": 9398,
+        "imdb": "tt0196229",
+        "title": "Zoolander (Un descerebrado de moda)",
+        "original": "Zoolander",
+        "year": "2001",
+        "synopsis": "Derek Zoolander (Stiller) ha sido el modelo masculino más cotizado durante los últimos 3 años. La noche de la gala que podría suponer su cuarta corona, el galardón se lo lleva un nuevo modelo llamado Hansel (Wilson). Derek queda en entredicho y como un idiota, y decide retirarse. Sin embargo, un prestigioso diseñador le pide que desfile para él.",
+        "genres": [
+          "Comedia"
+        ],
+        "runtime": 89,
+        "rating": 6.234,
+        "votes": 5133,
+        "tagline": "3% de grasa corporal. 1% de actividad cerebral.",
+        "country": "United States of America",
+        "director": [
+          "Ben Stiller"
+        ],
+        "cast": [
+          "Ben Stiller",
+          "Owen Wilson",
+          "Christine Taylor",
+          "Will Ferrell",
+          "Milla Jovovich",
+          "Jerry Stiller",
+          "David Duchovny",
+          "Jon Voight",
+          "Judah Friedlander",
+          "Nathan Lee Graham"
+        ],
+        "poster": "assets/poster-tmdb-movie-9398.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lIyyiBOuyokL82rPEDcZaMKleA3.jpg",
+        "source": "https://www.themoviedb.org/movie/9398",
+        "trailer": null,
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-527fa9d9e7e1",
+      "title": "El hombre de la pistola de oro",
+      "type": "movies",
+      "year": "1974",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3147690050,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 7513.09,
+            "width": 1920,
+            "height": 1036,
+            "video": [
+              "hevc (Main), yuv420p(tv, bt709), 1920x1036 [SAR 1:1 DAR 480:259], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt) (forced)",
+              "Stream #0:5(spa): Subtitle: subrip (srt)",
+              "Stream #0:6(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3147690050,
+      "meta": {
+        "matched": true,
+        "tmdb": 682,
+        "imdb": "tt0071807",
+        "title": "El hombre de la pistola de oro",
+        "original": "The Man with the Golden Gun",
+        "year": "1974",
+        "synopsis": "El superagente británico 007 habrá de vérselas ahora con el más peligroso asesino a sueldo del momento: un hombre llamado Scaramanga, más conocido como el hombre de la pistola de oro, que tratará de deshacerse de Bond con los más sofisticados recursos.",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Suspense"
+        ],
+        "runtime": 129,
+        "rating": 6.467,
+        "votes": 2378,
+        "tagline": "El hombre de la pistola de oro está listo para asesinar a James Bond.",
+        "country": "United Kingdom, United States of America",
+        "director": [
+          "Guy Hamilton"
+        ],
+        "cast": [
+          "Roger Moore",
+          "Christopher Lee",
+          "Britt Ekland",
+          "Maud Adams",
+          "Hervé Villechaize",
+          "Clifton James",
+          "Richard Loo",
+          "Soon-Tek Oh",
+          "Marc Lawrence",
+          "Bernard Lee"
+        ],
+        "poster": "assets/poster-tmdb-movie-682.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3tpNEbRahT8smy7RraaWa0xg9Gv.jpg",
+        "source": "https://www.themoviedb.org/movie/682",
+        "trailer": "https://www.youtube.com/watch?v=Ha94ny648TQ",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-aaba3b5c0208",
+      "title": "Spectre",
+      "type": "movies",
+      "year": "2015",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3139148103,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 8886.91,
+            "width": 1920,
+            "height": 800,
+            "video": [
+              "h264 (High), yuv420p(progressive), 1920x800, SAR 1:1 DAR 12:5, 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 448 kb/s (default)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:4(eng): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:5(spa): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:6(ukr): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:7(eng): Subtitle: hdmv_pgs_subtitle (pgssub)",
+              "Stream #0:8(eng): Subtitle: hdmv_pgs_subtitle (pgssub)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3139148103,
+      "meta": {
+        "matched": true,
+        "tmdb": 206647,
+        "imdb": "tt2379713",
+        "title": "Spectre",
+        "original": "Spectre",
+        "year": "2015",
+        "synopsis": "Un críptico mensaje del pasado envía a James Bond a una misión secreta a México D.F. y luego a Roma, donde conoce a Lucía Sciarra, la hermosa viuda de un infame criminal. Bond se infiltra en una reunión secreta y descubre la existencia de una siniestra organización conocida como SPECTRE. Mientras tanto, en Londres, el nuevo director del Centro para la Seguridad Nacional cuestiona las acciones de Bond y pone en duda la importancia del MI6, encabezado por M. De modo encubierto Bond recluta a Moneypenny y Q para que le ayuden a buscar a Madeleine Swann, la hija de su antiguo archienemigo, el Sr. White, que quizá tenga la clave para desentrañar el misterio de SPECTRE. A medida que Bond avanza en su misión, descubre una estremecedora conexión entre él mismo y el enemigo que busca.",
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Suspense"
+        ],
+        "runtime": 148,
+        "rating": 6.573,
+        "votes": 11544,
+        "tagline": "Un plan del que nadie escapa.",
+        "country": "United Kingdom, United States of America",
+        "director": [
+          "Sam Mendes"
+        ],
+        "cast": [
+          "Daniel Craig",
+          "Christoph Waltz",
+          "Léa Seydoux",
+          "Ralph Fiennes",
+          "Monica Bellucci",
+          "Ben Whishaw",
+          "Naomie Harris",
+          "Dave Bautista",
+          "Andrew Scott",
+          "Rory Kinnear"
+        ],
+        "poster": "assets/poster-tmdb-movie-206647.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cCKU3EuiSKt6xsOI6gg5kiFgZYm.jpg",
+        "source": "https://www.themoviedb.org/movie/206647",
+        "trailer": "https://www.youtube.com/watch?v=ycih-sGr9js",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
+        "recordedAt": "2026-10-12"
+      }
+    },
+    {
+      "id": "manual-359193fd15fd",
+      "title": "Nunca digas nunca jamás",
+      "type": "movies",
+      "year": "1983",
+      "files": [
+        {
+          "name": "Copia 1",
+          "bytes": 3462298881,
+          "season": null,
+          "episode": null,
+          "technical": {
+            "status": "ok",
+            "seconds": 8064.83,
+            "width": 1920,
+            "height": 814,
+            "video": [
+              "hevc (Main), yuv420p(tv, bt709), 1920x814 [SAR 1:1 DAR 960:407], 23.98 fps, 23.98 tbr, 1k tbn (default)"
+            ],
+            "audio": [
+              "Stream #0:1(spa): Audio: ac3, 48000 Hz, 5.1, fltp (default) (forced)",
+              "Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s"
+            ],
+            "subtitles": [
+              "Stream #0:3(spa): Subtitle: subrip (srt) (default) (forced)",
+              "Stream #0:4(spa): Subtitle: subrip (srt) (forced)",
+              "Stream #0:5(spa): Subtitle: subrip (srt)",
+              "Stream #0:6(eng): Subtitle: subrip (srt)"
+            ]
+          },
+          "location": "USB Patriot",
+          "recordedAt": "2026-10-12"
+        }
+      ],
+      "bytes": 3462298881,
+      "meta": {
+        "matched": true,
+        "tmdb": 36670,
+        "imdb": "tt0086006",
+        "title": "Nunca digas nunca jamás",
+        "original": "Never Say Never Again",
+        "year": "1983",
+        "synopsis": "La temible organización criminal Spectra ha ideado un ingenioso plan que le permite conseguir dos proyectiles nucleares, los cuales harán estallar si el gobierno no cede a su chantaje. El agente 007 se encargará del caso.",
+        "genres": [
+          "Aventura",
+          "Acción",
+          "Suspense"
+        ],
+        "runtime": 137,
+        "rating": 6.1,
+        "votes": 1697,
+        "tagline": "Sean Connery es James Bond 007",
+        "country": "United Kingdom, United States of America",
+        "director": [
+          "Irvin Kershner"
+        ],
+        "cast": [
+          "Sean Connery",
+          "Klaus Maria Brandauer",
+          "Max von Sydow",
+          "Barbara Carrera",
+          "Kim Basinger",
+          "Bernie Casey",
+          "Alec McCowen",
+          "Edward Fox",
+          "Pamela Salem",
+          "Rowan Atkinson"
+        ],
+        "poster": "assets/poster-tmdb-movie-36670.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/45uCcAUB8Ljz3uKb1y1JHtT5aCT.jpg",
+        "source": "https://www.themoviedb.org/movie/36670",
+        "trailer": "https://www.youtube.com/watch?v=Ha94ny648TQ",
+        "checkedAt": "2026-10-12"
+      },
+      "inventory": {
+        "source": "scan",
+        "location": "USB Patriot",
+        "note": "",
         "recordedAt": "2026-10-12"
       }
     }
